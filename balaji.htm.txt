@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <title>Iam the king</title>
+</head>
+<body>
+  <h1>Balaji the great</h1>
+  <p>masters student, BTH, telecommunication systems, researching on protocols</p>
+  <!-- balaji first code in code academy-->
+  <p>I offer the following :</p>
+  <ul>
+ 
+    <li>programming using C++,Ruby and java</li>
+    <li>front end developer</li>
+    <li>command line administration</li>
+    <li>quality enhancements of protocols</li>
+  </ul>
+  <a href="https://www.linkedin.com/in/chinnabalaji-yalla-30750055/"target="_blank">about</a>
+  <p>The following are the list of my courses i have studied:</p>
+  <ol>
+    <li>computer networks</li>
+    <li>network management</li>
+    <li>applied network management</li>
+    <li>software development</li>
+  </ol>
+  
+  
+  <a href="https://www.linkedin.com/in/chinnabalaji-yalla-30750055/"target="_blank"><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="what is aws"/></a>
+  
+
+ </body> 
+</html>
